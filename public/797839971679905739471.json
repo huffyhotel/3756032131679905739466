@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "732339424870",
+    "project_id": "fake-call-e01c0",
+    "storage_bucket": "fake-call-e01c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:732339424870:android:0c540710419e961be1a7a7",
+        "android_client_info": {
+          "package_name": "com.fakcall.honne"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "732339424870-q7ure6pl1uhmlv77s2h860uc6o9fak1p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtaY3Q29OFKm4GZCwC9Uca3WcM-KzyQz4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "732339424870-q7ure6pl1uhmlv77s2h860uc6o9fak1p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
